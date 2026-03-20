@@ -1,9 +1,4 @@
-## Desenvolvedor em aprendizado   
- Sempre buscando aprender e evoluir!
-
----
-
-##  Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 <p align="center">
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -14,22 +9,30 @@
 
 ---
 
-<img 
-  height="150" 
-  src="https://github-readme-stats.vercel.app/api?username=Emersonsza&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=30" 
-/>
+###  Estatísticas
 
-<img 
-  height="150" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emersonsza&theme=tokyonight&layout=compact&cache_seconds=30" 
-/>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="150" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Emersonsza&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=30" 
+  />
+
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="150" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emersonsza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=30" 
+  />
+</p>
 
 ---
-
-##  Atividade
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emersonsza&theme=tokyo-night" />
 </p>
 
 ---
+
