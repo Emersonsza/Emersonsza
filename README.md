@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="[https://pin.it/23146zXO0](https://br.pinterest.com/pin/21532904464936103/)" width="350px">
-</p>
-
-<p align="center">
-<img src="https://i.pinimg.com/originals/66/c1/3a/66c13a51b1a6a109d2eea204a5e99254.gif"
-</p>
+---
 
 ## Linguagens e Tecnologias
 
@@ -17,24 +11,27 @@
 
 ---
 
-###  Estatísticas
+### Estatísticas
 
-<p>
+<div align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Emersonsza&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=30" 
+    height="150"
+    style="display: inline-block; margin-right: 10px;"
   />
-
+  
   <img 
-    align="left" 
-    alt="Top Langs" 
-    height="150" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emersonsza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=30" 
+    height="150"
+    style="display: inline-block;"
+  />
+</div>
+
+---
+
+<p align="center">
+  <img 
+    src="https://i.pinimg.com/originals/66/c1/3a/66c13a51b1a6a109d2eea204a5e99254.gif"
+    width="280"
   />
 </p>
-
-
-
