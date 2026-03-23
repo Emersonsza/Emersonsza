@@ -18,20 +18,13 @@
 
 ---
 
-### Estatísticas
+## Estatísticas
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Emersonsza&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=30" 
-    height="150"
-    style="display: inline-block; margin-right: 10px;"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emersonsza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=30" 
-    height="150"
-  />
-</div>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Emersonsza&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emersonsza&layout=compact&theme=tokyonight" />
+</p>
+
 
 ---
-
