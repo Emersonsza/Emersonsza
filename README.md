@@ -1,3 +1,10 @@
+<p align="center">
+  <img 
+    src="https://i.pinimg.com/originals/66/c1/3a/66c13a51b1a6a109d2eea204a5e99254.gif"
+    width="280"
+  />
+</p>
+
 ---
 
 ## Linguagens e Tecnologias
@@ -23,15 +30,8 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emersonsza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=30" 
     height="150"
-    style="display: inline-block;"
   />
 </div>
 
 ---
 
-<p align="center">
-  <img 
-    src="https://i.pinimg.com/originals/66/c1/3a/66c13a51b1a6a109d2eea204a5e99254.gif"
-    width="280"
-  />
-</p>
