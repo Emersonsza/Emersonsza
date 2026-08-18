@@ -4,3 +4,36 @@
     width="280"
   />
 </p>
+
+
+### Desenvolvedor
+
+Desenvolvo sites e aplicações enquanto aprimoro constantemente minhas habilidades em programação.
+
+---
+
+## Sobre mim
+
+- Focado em desenvolvimento web
+- Atualmente estudando e aprimorando minhas habilidades
+- Interessado em criar projetos funcionais e bem estruturados
+- Sempre buscando aprender coisas novas
+
+---
+
+## Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,github" />
+
+</div>
+
+---
+
+<div align="center">
+
+Obrigado por visitar meu perfil.
+
+</div>
+
