@@ -31,9 +31,5 @@ Desenvolvo sites e aplicações enquanto aprimoro constantemente minhas habilida
 
 ---
 
-<div align="center">
 
-Obrigado por visitar meu perfil.
-
-</div>
 
